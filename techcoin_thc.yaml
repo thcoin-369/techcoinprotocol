@@ -1,0 +1,14 @@
+token:
+  name: Techcoin
+  symbol: THC
+  decimals: 3
+  address: EQCpqdg3PXwl8Ghxg2EQ5ZbxeEpW0gtGVkbQgdGXx_Sef5f4
+  description: THC es el token de gobernanza del proyecto Techcoin, finanzas P2P, Contratos Inteligentes.
+  image: https://i.ibb.co/3yzrPRD6/LOGO-THC.png
+  social:
+    - name: Website
+      url: https://techcoinprotocol.com
+    - name: Twitter
+      url: https://x.com/TechcoinThc
+    - name: Telegram
+      url: https://t.me/thcprotocoldefi
